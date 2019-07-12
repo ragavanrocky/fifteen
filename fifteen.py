@@ -8,4 +8,4 @@ if(len(ans)==0):
     print(-1)
 else:
     print(" ".join(ans))
-    asdfghjkl
+    
